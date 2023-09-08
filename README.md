@@ -1,5 +1,6 @@
 # customer_bank_churn
-Link Google Slides = https://docs.google.com/presentation/d/109rEY5Q-h0OmrlJf7Z45LR_ZesQBQUNV/edit?usp=sharing&ouid=116196263186337366938&rtpof=true&sd=true
+Link Google Slides = https://docs.google.com/presentation/d/109rEY5Q-h0OmrlJf7Z45LR_ZesQBQUNV/edit?usp=sharing&ouid=116196263186337366938&rtpof=true&sd=true</br>
+Link Python = https://colab.research.google.com/drive/1rtbPkDhCOJ0vglSQuaIN2faFLuNE7lod?usp=drive_link
 
 -----
 
